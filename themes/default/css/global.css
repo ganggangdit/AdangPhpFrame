@@ -1,0 +1,46 @@
+body {
+	margin: 0;
+	padding: 0;
+	color:#777;
+	font:12px Verdana,Arial,Tahoma;
+	text-align:center;
+}
+img {
+	border:none;
+}
+
+a:link, a:visited {
+	text-decoration : none;
+	color:#888;
+	}
+
+a:hover {                   
+	text-decoration : none;
+	color:#C44;
+	}
+
+
+a:active {
+	text-decoration : underline;
+	color:#85A484;
+}
+ul {
+	list-style:none;
+	margin:0px;
+	padding:0px;
+}
+form {
+	margin:0px;
+	padding:0px;
+}
+input,select,button{
+	font:12px Verdana,Arial,Tahoma;
+	vertical-align:middle;
+	height:18px;
+}
+.button {
+	border:1px solid #B6B3AF;
+	padding:1px 4px 0;
+	cursor:pointer;
+	background:url(../images/buttonface.gif) repeat-x; 
+}

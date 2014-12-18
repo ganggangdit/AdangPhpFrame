@@ -1,0 +1,109 @@
+/*--------------------------------------------------|
+| dTree 2.05 | www.adang.com
+|---------------------------------------------------|
+| Copyright (c) 2014-               |
+|--------------------------------------------------*/
+		body {
+				margin:10% 10%;
+				font-size:12px;
+				font-family:verdana, sans-serif;
+				background:#F5F5F5;
+			}
+			#main-box {
+				background:#FFF;
+				border:1px solid #A5A5A5;
+				margin-right:5px;
+				margin-bottom:5px;
+				color:#5A5A8F;
+			}
+
+			.head-dark-box {
+				margin:2px;
+				background:url(../images/menu.gif);
+				color:#555;
+				padding-top:5px;
+				padding-bottom:5px;
+			}
+			.head-dark-box strong{
+				padding-left:30px;
+				background:url(../images/ins.gif) no-repeat 10px center;
+			}
+			.body-box {
+				margin:2px;
+				padding:1em;
+				line-height:150%;
+				background:#F1F1F1;
+			}
+			.tip-msg {
+				background:#EAEAEA url(../images/tip.gif) no-repeat 25px center;
+				padding-left:6em;
+				color:#5A5A8F;
+			}
+			.error {
+				background:#EAEAEA url(../images/tipe.gif) no-repeat 25px center;
+				padding-left:6em;
+				color:red;
+			}
+			.white-box {
+				margin:2px;
+				background:#FFF;
+			}
+			.center {
+				text-align:center;
+			}
+			.red-font {
+				color:#F00;
+			}
+			.license {
+				border:2px solid #FFF;
+				padding:20px;
+				padding-bottom:0px;
+			}
+			form {
+				margin:0px;
+				padding:0px;
+				width:auto !important;
+				width:100%;
+			}
+			ul {
+				padding:0px;
+				margin:0px;
+				list-style:none;
+			}
+			ul li {
+				padding-left:45px;
+				padding-top:5px;
+				padding-bottom:5px;
+				background:url(../images/tp.gif) no-repeat 25px center;
+			}
+			.liimg {
+				background:url(../images/tpa.gif) no-repeat 25px center;
+			}
+			.col_width {
+				float:left;
+				width:25%;
+				line-height:20px;
+			}
+			.text-box {
+				font-size:12px;
+				font-family:verdana, sans-serif;
+				color:#696969;
+				border:1px solid #A5A5A5;
+				margin-right:10px;
+			}
+			.dark-row {
+				background-color:#EAEAEA;
+			}
+
+			.light-row {
+				background-color:#f8f8f8;
+			}
+
+			.button {
+				margin-right:10px;
+				border:1px solid #B6B3AF;
+				padding:1px 4px 0;
+				cursor: pointer;
+				background:url(../images/buttonface.gif) repeat-x;
+				height:21px;
+			}
