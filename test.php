@@ -3,5 +3,5 @@
    //Todo  Test git status;
    //Todo it's remote branch_1
 
-   //·ÖÖ§1
+   //branch_1
 ?>
